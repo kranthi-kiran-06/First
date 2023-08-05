@@ -12,7 +12,7 @@ git add "file_name"
 touch "file_name"
 git diff //stge-working
 git diff --staged //staged-last commit
-git commit -a -m "Direct Commit" 
+git commit -a -m "Direct Commit" //untracked files
 -----------------gitignore---------
 file_name
 *.extension
