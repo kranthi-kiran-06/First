@@ -1,2 +1,3 @@
 direct commit :
 git commit -a -m "this is direct commit"
+now its changed
