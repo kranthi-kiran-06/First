@@ -10,6 +10,8 @@ git add
 git commit -m "message"
 git add "file_name"
 touch "file_name"
+git diff //stge-working
+git diff --staged //staged-last commit
 -----------------gitignore---------
 file_name
 *.extension
