@@ -13,6 +13,15 @@ touch "file_name"
 git diff //stge-working
 git diff --staged //staged-last commit
 git commit -a -m "Direct Commit" //untracked files
+git rm --chached "file_name"
+rm -rf .git 
+git log -p
+git log -p -n // last n commits
+git log --stat
+git log --pretty
+git log --pretty=short
+git log --pretty=full
+git log --since=2.days
 -----------------gitignore---------
 file_name
 *.extension
